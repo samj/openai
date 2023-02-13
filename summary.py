@@ -2,7 +2,7 @@ import requests
 import json
 
 # Set the API key for OpenAI
-API_KEY = "your_api_key_here"
+API_KEY = os.environ.get('OPENAI_API_KEY')
 
 def pdf_to_text(file_path):
     """Convert a PDF to text using the OpenAI GPT-3 API"""
