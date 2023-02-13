@@ -1,0 +1,9 @@
+$ ./summary.py cv.pdf
+Summary:
+
+Samuel James Johnston is a future-thinking technology executive and entrepreneur with over 20 years of experience in senior leadership roles at startups and multinationals. He has a proven track record of driving innovative product ideas to delivery at scale using emerging technologies, modern methodologies & architectures, and global teams.
+
+Most recently, Samuel was the CEO of Acumino, a venture studio and startup accelerator based in Singapore. He also served as the Director of Labs at DXC Technology, where he oversaw the delivery of concept to cash innovation using Agile/SAFe methodologies and 20+ emerging technologies for digital transformation. Prior to that, he was the Chief Technology Officer (CTO) of DXC Technology Australia & New Zealand, where he was responsible for all technical aspects of the business and oversaw the merger of the technical teams of CSC and HPES.
+
+Samuel has a BSc in Computer Science from the University of New South Wales and an Executive MBA from the S P Jain School of Global Management. He is a Chartered Fellow of the Chartered Management Institute (CMI) and a Senior Certified Professional of the Australian Computer Society (MACS). He is also certified in a number of emerging technologies, including AWS, Google, and Microsoft.
+
